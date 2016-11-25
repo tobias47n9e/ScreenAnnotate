@@ -1,0 +1,12 @@
+{
+    "shell-version": [
+        "3.18",
+        "3.20",
+        "3.22"
+    ],
+    "description": "Annotate the screen for screencasts",
+    "name": "Screen Annotate",
+    "uuid": "ScreenAnnotate@tobias47n9e",
+    "url": "https://github.com/tobias47n9e/ScreenAnnotate",
+    "version": "0.1"
+}
